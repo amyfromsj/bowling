@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
+
+body {
+    background-color: #FFFDF4;
+    padding: 0;
+    margin: 0;
+    background-image: url('images/lines.png');
+}
+
+/* navbar */
+
+.navbar {
+    background-color: #FCF4D7;
+    
+}
+
+.navbar-brand {
+    font-family: 'Fountain free', cursive;
+} 
+
+.navbar a {
+    color: #980000;
+}
+
+.navbar img {
+    width: 1rem;
+    margin-right: 20px;
+}
+
+/* title */
+
+.title {
+    margin: 0 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15rem;
+    flex-direction: column;
+    padding-top: 10rem;
+    
+}
+
+.title p {
+    font-family: 'Fountain free', cursive;
+    font-size: 3rem;
+    text-align: left;
+    width: 50rem;
+    color: #D87C00;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Train One', sans-serif;
+    font-size: 6rem;
+    text-align: center;
+    color: #002C80;
+    text-decoration: underline;
+}
+
+.info {
+    border: 5px solid #654E36;
+    height: 15rem;
+    margin: 0 2rem;
+}
+
+.container {
+    width: 70%;
+
+}
+.grids {
+    height: 30rem;
+}
